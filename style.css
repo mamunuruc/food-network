@@ -17,7 +17,7 @@ a{
 }
 nav{
     display: flex;
-    width: 100%;
+    width: 90%;
     justify-content: space-between;
     align-items: center;
     height: 60px;
@@ -36,9 +36,8 @@ nav ul li a{
     
 }
 .logo{
-    font-family: RoadTest;
     color: #000000;
-    font-size: 22px;
+    font-size: 25px;
 }
 
 h1{
@@ -86,15 +85,20 @@ p{
 .text{
     text-align: center;
 }
+
 .box{
-    width: 40%;
+    width: 28%;
+    margin-left: 2%;
+    box-shadow: 0px 10px 20px #929090;
+    padding: 23px 6px;
+    margin-bottom: 40px;
     text-align: center;
-    padding: 2%;
     border-radius: 20px;
 }
 .box img{
-    width: 80%;
+    width: 90%;
 }
+
 #newsletter{
     text-align: center;
     margin-bottom: 100px;
@@ -103,7 +107,7 @@ p{
 footer{
     padding: 30px;
     margin-top: 20px;
-    color: white;
-    background-color: black;
+    color:#FFFFFF;
+    background-color:#000000;
     text-align: center;
 }
